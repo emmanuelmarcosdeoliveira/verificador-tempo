@@ -22,19 +22,19 @@
 
 ## Screenshots ou gif
 
-![Projeto-verificador de tempo](https://github.com/emmanuelmarcosdeoliveira/projeto-login/blob/main/imagens/tela-login.gif)
+![Projeto-verificador de tempo](https://raw.githubusercontent.com/emmanuelmarcosdeoliveira/verificador-tempo/main/imagens/screnshoot.jpg)
 
 ## Demonstração
 
 Clique no link para acessar. <br>
-[Projeto - verificador de tempo ](http://www.projeto-login-liard.vercel.app/)
+[Projeto - verificador de tempo ](https://emmanuelmarcosdeoliveira.github.io/verificador-tempo/)
 
 ## Deploy
 
 Para fazer o deploy desse projeto rode
 
 ```bash
- http://www.projeto-login-liard.vercel.app/
+ https://emmanuelmarcosdeoliveira.github.io/verificador-tempo/
 ```
 
 ## Aprendizados
