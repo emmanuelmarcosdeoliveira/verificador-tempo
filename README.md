@@ -13,7 +13,7 @@
 
 | Nome                 | Descrição                                                                                                                                                                                                                                                                                       |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Verificador de tempo | Nesse exercício foi criado um arquivo base **HTML**,**CSS**,**JavaScript** para práticas de aprendizado **JavaScript**. Essa página HTML se comporta de forma diferente de acordo com o hórario que ele for aberta aonde temos coonfigurações diferentes para o periodo da manhã, tarde e noite |
+| Verificador de tempo | Nesse exercício foi criado um arquivo base **HTML**,**CSS**,**JavaScript** para práticas de aprendizado **JavaScript**. Essa página HTML se comporta de forma diferente de acordo com o hórario que ele for acessada, onde temos estilos diferentes para cada periodo  manhã, tarde e noite |
 
 ## Funcionalidades
 
